@@ -206,4 +206,6 @@ The code descends from the [Half-Life SDK](https://github.com/ValveSoftware/half
 
 See [LICENSE](LICENSE). In short: the tools and documentation written for DeCoF are under the MIT License; source code derived from the Half-Life SDK stays under the [Half-Life 1 SDK License](LICENSES/Half-Life-1-SDK.txt) (free distribution only), and code derived from Paranoia under Paranoia's terms; the code reconstructed from the Cry of Fear binaries belongs to its original authors, and no rights over it are granted.
 
+If you use DeCoF in your own project, a fork or a mod, please credit it: name DeCoF by caixax and link to https://github.com/caixax/DeCoF in your README or credits. The MIT parts already require that the copyright notice and the license text stay with every copy.
+
 This project is not affiliated with or endorsed by Team Psykskallar or Valve. The repository contains no game assets or retail binaries; you need your own copy of Cry of Fear.
