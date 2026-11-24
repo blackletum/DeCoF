@@ -1,5 +1,7 @@
 # DeCoF
 
+[![Discord](https://img.shields.io/badge/Discord-join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/m63drEUJ4v)
+
 > [!TIP]
 > **Looking to play?** [ReCoF](https://github.com/caixax/ReCoF) is the improved version of Cry of Fear built from DeCoF, and the version to play: it fixes the original game's bugs and adds improvements, and it is the one that gets releases and updates. The recommended way to install it is the [ReCoF Launcher](https://github.com/caixax/ReCoF-Launcher/releases/latest), which makes the copy of the game for you, checks every file it downloads, keeps ReCoF and itself up to date, and backs up your saves before each update. DeCoF itself is the faithful 1:1 decompilation, for studying and rebuilding the original game.
 
